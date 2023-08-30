@@ -1,0 +1,11 @@
+{
+"name":"Ravi kumar",
+"age": 36,
+"status":true,
+"address":{
+           "city":"chennai",
+           "state":"Tamil nadu"
+},
+"courses":["java","selenium","python"]
+
+}
